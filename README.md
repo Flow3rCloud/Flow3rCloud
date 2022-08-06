@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Flow3rCloud !
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning JavaScript/React, Python/Django, Cloud Computing...
-- 💞️ I’m looking to collaborate in cool interesting projects.
+- 💞️ I’m looking forward to collaborate in cool interesting projects.
